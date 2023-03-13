@@ -41,4 +41,4 @@ jobs:
           app-name: 'pilotdev-transactionscheduler'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CEAA8B29F0514696ACE474FBCABAA66C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9C0B88F6950149538360B5058F9766B0 }}
